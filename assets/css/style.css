@@ -19,7 +19,7 @@ a:link, a:visited {
 }
 
 .padding /* main block padding */ {
-	margin-top: -50px; 
+    margin-top: -50px; 
 } 
 
 .border /* button styling */ {
@@ -37,8 +37,8 @@ a:link, a:visited {
 }
 
 .centered {
-	text-align: center;
-	float: center;
+    text-align: center;
+    float: center;
 }
 
 img.centered {
@@ -47,7 +47,7 @@ img.centered {
     margin-right: auto }
 
 .margin-bottom /* footer */ {
-	margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
 body {
@@ -59,44 +59,44 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+    font-weight: 700;
     color: #4a4a4a;
 }
 
 .navbar-default /* bootstrap navbar edits */ {
-	background-color: transparent;
-	border-color: transparent;
+    background-color: transparent;
+    border-color: transparent;
 }
 
 .navbar {
-	font-size: 25px; 
-	padding-top: 12px;
-	padding-bottom: 12px;
+    font-size: 25px; 
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .navbar i {
-	color: #1abc9c
+    color: #1abc9c
 }
 
 .navbar i:hover {
-	color: #4a4a4a
+    color: #4a4a4a
 }
 
 #footerwrap {
-	padding-top: 20px;
-	padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #2f2f2f;
 }
 
 #footerwrapteal {
     margin-top: -25px;
-	padding-top: 25px;
-	padding-bottom: 25px;
-    background-color: #01ca9d;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #1abc9c;
 }
 
 .gallery {
-	margin-top: 30px;
+    margin-top: 30px;
 }
 
 .website-img:hover {
